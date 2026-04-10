@@ -1,7 +1,7 @@
 # Unbraved Chromium: Comprehensive Research Study
 ## Removing Brave-Specific Features & Designing Custom Implementations
 
-**Research Date**: April 2026  
+**Research Date**: April 10, 2026  
 **Project**: unbraved-chromium-meta  
 **Scope**: Complete analysis of Brave Browser feature removal, replacement strategies, and rebranding  
 **Inspiration**: Ungoogled Chromium approach to feature curation and removal
