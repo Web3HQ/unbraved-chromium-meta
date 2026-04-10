@@ -1,4 +1,4 @@
-URGENT: [/issues/1](https://github.com/Web3HQ/unbraved-chromium-meta/issues/1)
+URGENT: [/issues/3](https://github.com/Web3HQ/unbraved-chromium-meta/issues/3)
 
 # Unbraved Chromium Meta
 
