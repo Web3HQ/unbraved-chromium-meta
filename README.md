@@ -1,3 +1,5 @@
+URGENT: [/issues/1](https://github.com/Web3HQ/unbraved-chromium-meta/issues/1)
+
 # Unbraved Chromium Meta
 
 A privacy-focused, fully customizable Chromium derivative inspired by **Ungoogled Chromium**, but out of Brave Browser. This project removes Brave-specific proprietary features (Sync servers, accounts, AI, wallet infrastructure, rewards) and replaces them with extensible, configurable alternatives that put **you in control**.
