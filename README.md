@@ -1,4 +1,4 @@
-# Brave Browser
+# unbraved-chromium Browser
 
 This repository is not needed for building the browser and only holds issues, releases and the wiki. The source code and contributions are at https://github.com/brave/brave-core.
 
