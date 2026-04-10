@@ -1,10 +1,10 @@
 # Unbraved Chromium Meta
 
-A privacy-focused, fully customizable Chromium derivative inspired by **Ungoogled Chromium**. This project removes Brave-specific proprietary features (Sync servers, accounts, AI, wallet infrastructure, rewards) and replaces them with extensible, configurable alternatives that put **you in control**.
+A privacy-focused, fully customizable Chromium derivative inspired by **Ungoogled Chromium**, but out of Brave Browser. This project removes Brave-specific proprietary features (Sync servers, accounts, AI, wallet infrastructure, rewards) and replaces them with extensible, configurable alternatives that put **you in control**.
 
 ## About Unbraved Chromium Meta
 
-**Unbraved Chromium** is not a fork of Brave Browser—it's a reimagining. We take the excellent privacy features and rendering engine from Chromium, strip away Brave's proprietary infrastructure, and create a foundation for truly **customizable privacy**.
+**Unbraved Chromium** is not just a fork of Brave Browser—it's a reimagining. We take the excellent privacy features and rendering engine from Chromium, strip away Brave's proprietary infrastructure, and create a foundation for truly **customizable privacy**.
 
 Unlike Brave Browser (which integrates its own sync servers, account systems, and cloud services), Unbraved Chromium gives you:
 
@@ -29,7 +29,7 @@ Unlike Brave Browser (which integrates its own sync servers, account systems, an
 
 ## Quick Start
 
-This repository contains issue tracking, release notes, and documentation. **Source code** is at [unbraved-chromium-meta-core](https://github.com/your-org/unbraved-chromium-core/) (sister repository).
+This repository contains issue tracking, release notes, and documentation. **Source code** is at [unbraved-chromium](https://github.com/Web3HQ/unbraved-chromium) (sister repository).
 
 ### Resources
 
@@ -156,4 +156,4 @@ Chromium itself is under the BSD license, which is compatible.
 
 **Status**: Research Phase Complete | **Roadmap**: [ROADMAP.md](./ROADMAP.md) | **Latest Release**: [Releases](./releases)
 
-*Last Updated: April 2026*
+*Last Updated: April 10, 2026*
